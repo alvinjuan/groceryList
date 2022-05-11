@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    padding: 1rem;
+    font-size: 6rem;
+}
+input{
+    margin-right: 10px;
+    width: 20rem;
+
+}
+button{
+    display: block;
+    width: 50px;
+    height: 20px;;
+}
+form {
+    padding: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
